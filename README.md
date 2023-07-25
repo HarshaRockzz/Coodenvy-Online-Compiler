@@ -1,2 +1,2 @@
-# Coodenvy-Online-Compiler
-Online compiler made by mern stack
+# Coodenvy
+A simple online compiler using mern stack
